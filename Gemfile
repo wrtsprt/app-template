@@ -41,6 +41,7 @@ gem 'spring',        group: :development
 gem 'slim-rails'
 gem 'bootstrap-sass'
 gem 'devise'
+gem 'simple_form'
 
 group :development do
   gem 'quiet_assets'
